@@ -8,10 +8,10 @@ I am a **postdoctoral researcher in Computer Science (Real-Time Systems Group, U
 - Visit my [research homepage](https://www.xiaotiandai.com)
 - Visit [Real-Time Systems Research Group](https://www.cs.york.ac.uk/rts/)
 - Twitter: [@steven_xdai](https://twitter.com/steven_xdai)
-- You can find open-source code of my published research in my profile, starting with the name *research-*
+- You can find open-source code of most of my published research, starting with the name *research-\**
 
 #### About YFRL (YF Robotics Lab)
-- Started as a personal blog in 2010. Now YFRL is a community for open source robots.
+- Started as a personal blog in 2010. YFRL is now a community for robotic enthusiasts.
 - Know more about [YF Robotics Lab](https://www.yfrl.org)
 - Know more about [云飞机器人实验室 (in Chinese)](https://www.yfworld.com)
 - GitHub: [YF Robotics Lab](https://github.com/yfrobotics)
