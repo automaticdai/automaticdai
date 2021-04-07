@@ -7,7 +7,7 @@ I am a **postdoctoral researcher in Computer Science ([Real-Time Systems Researc
 #### About My Academic Research
 - Visit my [research homepage](https://www.xiaotiandai.com)
 - Visit my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ)
-- Twitter: [@steven_xdai](https://twitter.com/steven_xdai)
+- Twitter: [@StevenXDai](https://twitter.com/stevenxdai)
 - You can find the open-source code of most of my research here (most are starting with *research-\**)
 
 #### About YFRL (YF Robotics Lab)
