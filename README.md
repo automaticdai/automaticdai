@@ -7,11 +7,12 @@ I am a **postdoctoral researcher in Computer Science ([Real-Time Systems Researc
 #### About My Academic Research
 - Visit my [research homepage](https://www.xiaotiandai.com)
 - Visit my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ)
+- Connect me on [LinkedIn](https://www.linkedin.com/in/xdai3/)
 - Twitter: [@StevenXDai](https://twitter.com/stevenxdai)
-- You can find the open-source code of most of my research here (most are starting with *research-\**)
+- You can find the open-source code of most of my research here (most are starting with *research-\**).
 
 #### About YFRL (YF Robotics Lab)
-- Started as a personal blog in 2010, YFRL is now a community for robotic enthusiasts.
-- Know more about [YF Robotics Lab](https://www.yfrl.org) (Chinese: [云飞机器人实验室](https://www.yfworld.com))
+- Started as a personal blog in 2010, YFRL is now a community for robot developers and enthusiasts.
+- Know more about YFRL: EN: [YF Robotics Lab](https://www.yfrl.org) | Chinese: [云飞机器人实验室](https://www.yfworld.com)
 - GitHub: [YF Robotics Lab](https://github.com/yfrobotics)
 - Twitter: [@yfrobotics](https://twitter.com/yfrobotics)
