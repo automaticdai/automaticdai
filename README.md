@@ -13,6 +13,6 @@ I am a **postdoctoral researcher in Computer Science ([Real-Time Systems Researc
 
 #### About YFRL (YF Robotics Lab)
 - Started as a personal blog in 2010, YFRL is now a community for robot developers and enthusiasts.
-- Know more about YFRL: EN: [YF Robotics Lab](https://www.yfrl.org) | Chinese: [云飞机器人实验室](https://www.yfworld.com)
+- Know more about YFRL: [YF Robotics Lab](https://www.yfrl.org) (EN) | [云飞机器人实验室](https://www.yfworld.com) (Chinese)
 - GitHub: [YF Robotics Lab](https://github.com/yfrobotics)
 - Twitter: [@yfrobotics](https://twitter.com/yfrobotics)
