@@ -16,5 +16,3 @@ I am a **postdoctoral researcher in Computer Science ([Real-Time Systems Researc
 - Know more about YFRL: [YF Robotics Lab](https://www.yfrl.org) (EN) | [云飞机器人实验室](https://www.yfworld.com) (Chinese)
 - GitHub: [YF Robotics Lab](https://github.com/yfrobotics)
 - Twitter: [@yfrobotics](https://twitter.com/yfrobotics)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automaticdai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
