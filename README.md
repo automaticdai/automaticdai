@@ -2,9 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=automaticdai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I am a **postdoctoral researcher in Computer Science** ([Real-Time Systems Research Group](https://www.cs.york.ac.uk/rts/), University of York, UK) and the **founder of YF Robotics Lab**, a non-profit robot organisation. 
+I am a **research associate in Computer Science** ([Real-Time Systems Research Group](https://www.cs.york.ac.uk/rts/), University of York, UK). I believe the computer science research community could be much improved by open sourcing their code and artifacts. Most of my research code is on this GitHub (with a repo name starting with *research-\**). 
 
-I am a robot enthusiast and I believe the future will be better with technology of AI and robotics. I also think the computer research community should be more open by open-sourcing their code and artifacts. Most of my research code is on this GitHub (with a repo name starting with *research-\**).
+As a robot enthusiast, I believe the future will be better with technology of AI and robotics, instead of the other way around. With this vision, I created **YF Robotics Lab**, a non-profit robot organisation, to promote robotic technology to the public.
+
 
 #### Getting in touch
 - My [Research Homepage](https://www.xiaotiandai.com)
