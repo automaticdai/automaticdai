@@ -4,7 +4,7 @@
 
 I am a **research associate in Computer Science** ([Real-Time Systems Research Group](https://www.cs.york.ac.uk/rts/), University of York, UK). I believe the computer science research community could be much improved by open sourcing their code and artifacts. Most of my research code is on this GitHub (with a repo name starting with *research-\**). 
 
-As a robot enthusiast, I believe the future will be better with technology of AI and robotics, instead of the other way around. With this vision, I created **YF Robotics Lab**, a non-profit robot organisation, to promote robotic technology to the public.
+As a robot enthusiast, I envision a better future with technology of AI and robotics. With this vision, I created **YF Robotics Lab**, a non-profit robot organisation, to promote robotic technology to the public.
 
 
 #### Getting in touch
