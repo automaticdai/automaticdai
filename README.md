@@ -8,12 +8,13 @@ As a robot enthusiast, I envision a better future with technology of AI and robo
 
 
 #### Getting in touch
-- My [Research Homepage](https://www.xiaotiandai.com)
-- My [LinkedIn](https://www.linkedin.com/in/xdai3/)
-- My [Twitter (@StevenXDai)](https://twitter.com/stevenxdai)
+- [Research Homepage](https://www.xiaotiandai.com)
+- [LinkedIn](https://www.linkedin.com/in/xdai3/)
+- [Twitter (@StevenXDai)](https://twitter.com/stevenxdai)
 
 #### About YF Robotics Lab (YFRL)
 Started as a personal blog in 2010, YFRL is now a group of robot developers, researchers and enthusiasts around the world.
-- To know more about YFRL: [YF Robotics Lab](https://yfrobotics.github.io/) (ENG) | [云飞机器人实验室](https://www.yfworld.com) (CHN)
+- Website: [YF Robotics Lab](https://yfrobotics.github.io/) (ENG) | [云飞机器人实验室](https://www.yfworld.com) (CHN)
+- Instagram: [@yfrobotics](https://www.instagram.com/yfrobotics/)
 - Twitter: [@yfrobotics](https://twitter.com/yfrobotics)
 - GitHub: [YF Robotics Lab](https://github.com/yfrobotics)
