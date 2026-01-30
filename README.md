@@ -1,6 +1,6 @@
 ## Hi, I'm Steven 👋
 
-I am a **Lecturer (~Assistant Professor) in Computer Science** at the University of York, where I'm part of the [Real-Time and Distributed Systems Research Group](https://www.cs.york.ac.uk/rts/). I'm based in the beautiful, medieval city of York, United Kingdom.
+I am a **Lecturer (~Assistant Professor) in Computer Science** at the University of York, where I am leading [Real-Time and Flexible Cyber-Physical Systems Lab](https://www.xiaotiandai.com/lab). I'm based in the beautiful, medieval city of York, United Kingdom.
 
 With over a decade of R&D experience in real-time, embedded and cyber-physical systems, I’m passionate about exploring how **systems engineering**, **AI** and **robotics** can shape a better future. I'm both a researcher and a (full-stack) enthusiast in robotics!
 
