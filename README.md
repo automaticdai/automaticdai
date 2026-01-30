@@ -1,8 +1,8 @@
 ## Hi, I'm Steven 👋
 
-📍York ↔ London
-
 **Assistant Professor | Roboticist | Blogger | Consultant**
+
+📍York ↔ London
 
 I am a **Lecturer (~Assistant Professor) in Computer Science** at the University of York, where I am leading [Real-Time and Flexible Cyber-Physical Systems Lab](https://www.xiaotiandai.com/lab). I'm based in the beautiful, medieval city of York, United Kingdom.
 
