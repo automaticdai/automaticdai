@@ -1,18 +1,18 @@
 ## Hi, I'm Steven 👋
 
-📍York, London, Shanghai, Shenzhen
+📍York <--> London <--> Shenzhen
 
-I am an **Assistant Professor in Computer Science** at the University of York, where I lead the ReFlex Lab ([Real-Time and Flexible Cyber-Physical Systems Lab](https://www.xiaotiandai.com/lab)). I'm based in the beautiful, medieval city of York, United Kingdom.
+I am an **Assistant Professor in Computer Science** at the University of York, where I lead the [Real-Time and Flexible Cyber-Physical Systems Lab](https://www.xiaotiandai.com/lab) (ReFlex Lab). I'm based in the beautiful, medieval city of York, United Kingdom.
 
-I build real-time systems by day and robots by night --- and open-source everything. With over a decade of R&D experience in real-time, embedded and cyber-physical systems, I'm passionate about exploring how *systems engineering*, *embedded systems*, *AI* and *robotics* can shape a better future. I'm a researcher, a blogger and a full-stack developer in robotics and embedded systems. I am also the founder of YFRL ([YF Robotics Laboratory](https://github.com/yfrobotics)), which is an open-source, knowledge-sharing robotics community.
+I build real-time systems by day and robots by night --- and open-source everything. With over a decade of R&D experience in real-time, embedded and cyber-physical systems, I'm passionate about exploring how *systems engineering*, *embedded systems*, *AI* and *robotics* can shape a better future. I'm a researcher, a blogger and a full-stack developer in robotics and embedded systems. I am also the founder of [YF Robotics Laboratory](https://github.com/yfrobotics) (YFRL), which is an open-source, knowledge-sharing robotics community.
 
 To know more about my research, please visit [my academic homepage](https://www.xiaotiandai.com). You can also contact me on [LinkedIn](https://www.linkedin.com/in/xdai3/), [X (Twitter)](https://x.com/stevenxdai), [Zhihu](https://www.zhihu.com/people/daixiaotian) or by email: automatic.dai (at) gmail.com.
 
 ### Research
 - Real-Time Embedded Systems Design and Timing Analysis --- [Real-Time Systems Research Group, York](https://www.cs.york.ac.uk/rtds/) (#1 in the UK)
-- Adaptive and Flexible Task Scheduling for Safety-Critical Systems --- Innovate UK SCHEME Project (with Rolls-Royce)
+- Adaptive and Flexible Task Scheduling for Safety-Critical Systems --- Innovate UK SCHEME Project (with Rolls-Royce UK)
 - Modelling and Scheduling of Heterogeneous Multi-Core Architecture --- [MOCHA Project](https://www.cs.york.ac.uk/rts/mocha/) (with Huawei)
-- Humanoid Robot and Digital Twins for Virtual Production --- [RAVEN Project](https://raven-vp.github.io/) (with Unitree)
+- Humanoid Robot and Digital Twins for Virtual Production --- [RAVEN Project](https://raven-vp.github.io/) (with Unitree, Nvidia and XR Stories)
 - Multi-robot Scheduling and Task Allocation --- Scaling robots for logistics and warehouses
 
 I am actively looking for UK partners in autonomous driving/robotics and tech-driven creativity industries. Feel free to talk with me for collaboration!
