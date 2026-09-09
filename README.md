@@ -31,6 +31,7 @@ I am actively looking for UK partners in autonomous driving/robotics and tech-dr
 - [yf-smart-home-iot](https://github.com/yfrobotics/yf-smart-home-iot); IoT system for smart home and home automation
 - [URDFLex](https://github.com/automaticdai/URDFlex): URDFlex: A flexible web-based URDF viewer and editor
 - [aitop](https://github.com/automaticdai/aitop): A terminal-based interface to show all your coding AI stats and usages
+- [GoogleScholarInsights](https://github.com/automaticdai/GoogleScholarInsights): GoogleScholarInsights provides powerful insights into academic publication metrics, venue rankings, and research trends
 - [rpi-object-detection](https://github.com/automaticdai/rpi-object-detection): Real-time object detection and tracking with Raspberry Pi and OpenCV!
 - [rpi-environmental-sensing](https://github.com/automaticdai/rpi-environmental-sensing): An open-source domestic environment sensing system built with Raspberry Pi
 - [guinea-pig-monitor](https://github.com/automaticdai/guinea-pig-monitor): A real-time guinea pig behaviour monitoring system using YOLO, ByteTrack, and optical flow analysis
