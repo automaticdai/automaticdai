@@ -23,6 +23,7 @@ I am actively looking for UK partners in autonomous driving/robotics and tech-dr
 
 ### Project Highlights
 - [dag-gen-rnd](https://github.com/automaticdai/dag-gen-rnd): A randomised Multi-DAG task generator for scheduling and allocation research
+- [dag-sched](https://github.com/automaticdai/dag-sched): A simulation framework for evaluating and exploring DAG scheduling algorithms
 - [dag-scheduling-analysis](https://github.com/automaticdai/dag-scheduling-analysis): DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency
 - [research-sched-tsn](https://github.com/automaticdai/research-sched-tsn): Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Network
 - [MRWS_MultiRobot_Warehouse_Scheduling](https://github.com/automaticdai/MRWS_MultiRobot_Warehouse_Scheduling): MRWS: MultiRobot Warehouse Scheduling Framework
@@ -30,7 +31,9 @@ I am actively looking for UK partners in autonomous driving/robotics and tech-dr
 - [yfips-indoor-positioning-system](https://github.com/yfrobotics/yfips-indoor-positioning-system): YF-IPS: uses low-cost sensors for multi-robot indoor positioning, tracking and navigation
 - [yf-smart-home-iot](https://github.com/yfrobotics/yf-smart-home-iot); IoT system for smart home and home automation
 - [URDFLex](https://github.com/automaticdai/URDFlex): URDFlex: A flexible web-based URDF viewer and editor
+- [RoboWebGL](https://github.com/automaticdai/RoboWebGL): Interactive 3D robot arm simulation in the browser with Three.js and WebGL, supporting forward and inverse kinematics
 - [aitop](https://github.com/automaticdai/aitop): A terminal-based interface to show all your coding AI stats and usages
+- [hdf5-cli](https://github.com/automaticdai/hdf5-cli): A command-line interface for HDF5 files
 - [GoogleScholarInsights](https://github.com/automaticdai/GoogleScholarInsights): Provides powerful insights into academic publication metrics, venue rankings, and research trends
 - [rpi-object-detection](https://github.com/automaticdai/rpi-object-detection): Real-time object detection and tracking with Raspberry Pi and OpenCV!
 - [rpi-environmental-sensing](https://github.com/automaticdai/rpi-environmental-sensing): An open-source domestic environment sensing system built with Raspberry Pi
