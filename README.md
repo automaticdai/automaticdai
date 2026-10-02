@@ -32,6 +32,9 @@ I am actively looking for UK partners in autonomous driving/robotics and tech-dr
 - [yf-smart-home-iot](https://github.com/yfrobotics/yf-smart-home-iot); IoT system for smart home and home automation
 - [URDFLex](https://github.com/automaticdai/URDFlex): URDFlex: A flexible web-based URDF viewer and editor
 - [RoboWebGL](https://github.com/automaticdai/RoboWebGL): Interactive 3D robot arm simulation in the browser with Three.js and WebGL, supporting forward and inverse kinematics
+- [microduck_go](https://github.com/automaticdai/microduck_go): An arena environment for Microduck robots to battle
+- [qwen-drive-carla](https://github.com/automaticdai/qwen-drive-carla): Tools for testing Qwen-Drive with the CARLA simulator, including offline prediction and experimental closed-loop driving
+- [carla-autoware-ros2](https://github.com/automaticdai/carla-autoware-ros2): Integration of Autoware on ROS 2 Humble with CARLA 0.10 and Unreal Engine 5
 - [aitop](https://github.com/automaticdai/aitop): A terminal-based interface to show all your coding AI stats and usages
 - [hdf5-cli](https://github.com/automaticdai/hdf5-cli): A command-line interface for HDF5 files
 - [GoogleScholarInsights](https://github.com/automaticdai/GoogleScholarInsights): Provides powerful insights into academic publication metrics, venue rankings, and research trends
