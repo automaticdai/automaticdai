@@ -27,7 +27,7 @@ I am actively looking for UK partners in autonomous driving/robotics and tech-dr
 - [dag-scheduling-analysis](https://github.com/automaticdai/dag-scheduling-analysis): DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency
 - [research-sched-tsn](https://github.com/automaticdai/research-sched-tsn): Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Network
 - [MRWS_MultiRobot_Warehouse_Scheduling](https://github.com/automaticdai/MRWS_MultiRobot_Warehouse_Scheduling): MRWS: MultiRobot Warehouse Scheduling Framework
-- [MoCapStudio](https://github.com/automaticdai/MoCap-Studio): Low-cost markless motion capturing with multiple camears
+- [MoCapStudio](https://github.com/automaticdai/MoCap-Studio): Low-cost markerless motion capturing with multiple cameras
 - [yfips-indoor-positioning-system](https://github.com/yfrobotics/yfips-indoor-positioning-system): YF-IPS: uses low-cost sensors for multi-robot indoor positioning, tracking and navigation
 - [yf-smart-home-iot](https://github.com/yfrobotics/yf-smart-home-iot); IoT system for smart home and home automation
 - [URDFLex](https://github.com/automaticdai/URDFlex): URDFlex: A flexible web-based URDF viewer and editor
