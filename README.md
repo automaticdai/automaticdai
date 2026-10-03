@@ -37,6 +37,7 @@ I am actively looking for UK partners in autonomous driving/robotics and tech-dr
 - [carla-autoware-ros2](https://github.com/automaticdai/carla-autoware-ros2): Integration of Autoware on ROS 2 Humble with CARLA 0.10 and Unreal Engine 5
 - [aitop](https://github.com/automaticdai/aitop): A terminal-based interface to show all your coding AI stats and usages
 - [hdf5-cli](https://github.com/automaticdai/hdf5-cli): A command-line interface for HDF5 files
+- [yfmd](https://github.com/automaticdai/yfmd): A WYSIWYG desktop Markdown editor with live rendering, math, diagrams, and tables
 - [GoogleScholarInsights](https://github.com/automaticdai/GoogleScholarInsights): Provides powerful insights into academic publication metrics, venue rankings, and research trends
 - [rpi-object-detection](https://github.com/automaticdai/rpi-object-detection): Real-time object detection and tracking with Raspberry Pi and OpenCV!
 - [rpi-environmental-sensing](https://github.com/automaticdai/rpi-environmental-sensing): An open-source domestic environment sensing system built with Raspberry Pi
