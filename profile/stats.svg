@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Steven X. Dai&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1408, Total Commits  (last year) : 1029, Total PRs: 116, Total Issues: 105, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 1417, Total Commits  (last year) : 1031, Total PRs: 117, Total Issues: 105, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 41.59162559137128;
+        stroke-dashoffset: 41.38740510081723;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >116</text>
+      >117</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >21</text>
+      >20</text>
     </g>
   </g>
     </svg>
